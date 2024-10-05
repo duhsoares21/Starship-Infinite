@@ -1,7 +1,9 @@
-<img src="https://store-images.s-microsoft.com/image/apps.64607.14438494178598345.d7646b17-fb0e-4807-84cb-d64be6a2e740.f39306a3-0d92-41ab-83f3-0d709bcbc2c8" width="350" />
-<img src="https://store-images.s-microsoft.com/image/apps.4233.14438494178598345.d7646b17-fb0e-4807-84cb-d64be6a2e740.260b6241-b06f-4c82-96c3-69290c64e31e" width="350" />
-<img src="https://store-images.s-microsoft.com/image/apps.41205.14438494178598345.d7646b17-fb0e-4807-84cb-d64be6a2e740.8e99e808-e1e8-4aab-9c6b-d7eda1adeb68" width="350" />
-<img src="https://store-images.s-microsoft.com/image/apps.15711.14438494178598345.d7646b17-fb0e-4807-84cb-d64be6a2e740.4aeed384-c29f-4480-a566-f415cf186361" width="350" />
+<div>
+  <img src="https://store-images.s-microsoft.com/image/apps.64607.14438494178598345.d7646b17-fb0e-4807-84cb-d64be6a2e740.f39306a3-0d92-41ab-83f3-0d709bcbc2c8" width="350" />
+  <img src="https://store-images.s-microsoft.com/image/apps.4233.14438494178598345.d7646b17-fb0e-4807-84cb-d64be6a2e740.260b6241-b06f-4c82-96c3-69290c64e31e" width="350" />
+  <img src="https://store-images.s-microsoft.com/image/apps.41205.14438494178598345.d7646b17-fb0e-4807-84cb-d64be6a2e740.8e99e808-e1e8-4aab-9c6b-d7eda1adeb68" width="350" />
+  <img src="https://store-images.s-microsoft.com/image/apps.15711.14438494178598345.d7646b17-fb0e-4807-84cb-d64be6a2e740.4aeed384-c29f-4480-a566-f415cf186361" width="350" />
+</div>
 
 O update de 2021 do Starship Infinite chegou!
 
