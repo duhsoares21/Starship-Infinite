@@ -4,7 +4,7 @@
   <img src="https://store-images.s-microsoft.com/image/apps.41205.14438494178598345.d7646b17-fb0e-4807-84cb-d64be6a2e740.8e99e808-e1e8-4aab-9c6b-d7eda1adeb68" width="350" />
   <img src="https://store-images.s-microsoft.com/image/apps.15711.14438494178598345.d7646b17-fb0e-4807-84cb-d64be6a2e740.4aeed384-c29f-4480-a566-f415cf186361" width="350" />
 </div>
-
+<br/>
 O update de 2021 do Starship Infinite chegou!
 
 - Gráficos melhorados
