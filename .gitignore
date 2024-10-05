@@ -1,0 +1,48 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+/.git
+/.vscode
+/.vs
+/Build
+/Library
+/Logs
+/MobileBuild
+/obj
+/Packages
+/ProjectSettings
+/UserSettings
+
+*.csproj
+*.sln
+.vsconfig
+
+Assets/Animation
+Assets/Controller Icons Pack
+Assets/Epic Toon FX
+Assets/ExampleAssets
+Assets/Fonts
+Assets/Icones
+Assets/Epic Toon FX
+Assets/JMO Assets
+Assets/Materials
+Assets/Models
+Assets/Music Loops - Chiptune v2
+Assets/OnScreenControls
+Assets/Presets
+Assets/Scenes
+Assets/Settings
+Assets/Shaders
+Assets/Standard Assets
+Assets/Starfield Skybox
+Assets/TextMesh Pro
+Assets/TutorialInfo
+Assets/UJoystick
+Assets/Textures
+Assets/*.pfx
+Assets/*.meta
+Assets/*.asset
+Assets/Scripts/*.meta
+Assets/Inputs/*.meta
+Temp/*
+*.unitypackage
