@@ -7,6 +7,11 @@
 
 <br/>
 
+Starship Infinite é um jogo inspirado por clássicos do arcade como Asteroids e Space Invaders.
+
+Voe pelo espaço infinito e destrua todos os meteoros no seu caminho.
+Uma aventura de ação espacial espera por você.
+
 O update de 2021 do Starship Infinite chegou!
 
 - Gráficos melhorados
@@ -22,12 +27,12 @@ Especificações:
 - Xbox Series S - 1440p a 120fps
 - Xbox Series X - 4K a 120fps
 
-Starship Infinite é um jogo inspirado por clássicos do arcade como Asteroids e Space Invaders.
-
-Voe pelo espaço infinito e destrua todos os meteoros no seu caminho.
-Uma aventura de ação espacial espera por você.
-
 ----------------------------------------------------------------------------------------------------
+
+Starship Infinite is a game inspired by classics arcade ship games like asteroids and space invaders.
+
+Fly through the infinite space and destroy every meteor on your way.
+A fast-paced space bullet action adventure awaits.
 
 Starship Infinite 2021 Update is here!
 
@@ -43,8 +48,3 @@ Specs:
 - Xbox One X - 4K at 60fps
 - Xbox Series S - 1440p at 120fps
 - Xbox Series X - 4K at 120fps
-
-Starship Infinite is a game inspired by classics arcade ship games like asteroids and space invaders.
-
-Fly through the infinite space and destroy every meteor on your way.
-A fast-paced space bullet action adventure awaits.
