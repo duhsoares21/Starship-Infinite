@@ -43,6 +43,7 @@ Assets/*.pfx
 Assets/*.meta
 Assets/*.asset
 Assets/Scripts/*.meta
+Assets/Scripts/*.asset
 Assets/Inputs/*.meta
 Temp/*
 *.unitypackage
