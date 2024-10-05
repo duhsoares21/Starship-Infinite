@@ -46,7 +46,5 @@ Specs:
 
 Starship Infinite is a game inspired by classics arcade ship games like asteroids and space invaders.
 
-<br/>
-
 Fly through the infinite space and destroy every meteor on your way.
 A fast-paced space bullet action adventure awaits.
