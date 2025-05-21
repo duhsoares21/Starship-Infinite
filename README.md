@@ -1,3 +1,25 @@
+---
+
+### 📁 Projeto: [Starship Infinite](https://github.com/duhsoares21/Starship-Infinite)
+
+```markdown
+# 🚀 Starship Infinite - Jogo Unity
+
+## 🎮 Tecnologias
+- Unity Engine
+- C#
+
+## 🎯 Funcionalidades
+- Movimento livre em 4 direções
+- Top-Down 2.5D
+- Sistema de pontuação
+- Multiplicadores de dificuldade
+- HUD com informações da nave
+
+## 📦 Execução
+Abra o projeto no Unity (versão 2021+ recomendada) e execute a cena principal.
+
+```
 <div>
   <img src="https://store-images.s-microsoft.com/image/apps.64607.14438494178598345.d7646b17-fb0e-4807-84cb-d64be6a2e740.f39306a3-0d92-41ab-83f3-0d709bcbc2c8" width="350" />
   <img src="https://store-images.s-microsoft.com/image/apps.4233.14438494178598345.d7646b17-fb0e-4807-84cb-d64be6a2e740.260b6241-b06f-4c82-96c3-69290c64e31e" width="350" />
@@ -48,3 +70,4 @@ Specs:
 - Xbox One X - 4K at 60fps
 - Xbox Series S - 1440p at 120fps
 - Xbox Series X - 4K at 120fps
+
